@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First post"
+title:  "EGX and report"
 categories: dissertation uni 
 tags: intro dissertation graphics
 ---

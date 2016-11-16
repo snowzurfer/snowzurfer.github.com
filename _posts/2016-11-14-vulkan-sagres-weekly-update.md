@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vulkan sagres weekly update"
+title: "Vulkan sagres weekly update"
 description: ""
 category: vulkan-sagres
 tags: vulkan-sagres updates vulkan [deferred shading]
